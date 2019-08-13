@@ -1,0 +1,69 @@
+{
+    "employees": [
+        {
+            "id": 1,
+            "name": "Mark",
+            "computerId": 2,
+            "departmentId": 1
+        },
+
+        {
+            "id": 2,
+            "name": "Donnie",
+            "computerId": 1,
+            "departmentId": 2
+        },
+        {
+            "id": 3,
+            "name": "Sarah",
+            "computerId": 2,
+            "departmentId": 3
+        },
+        {
+            "id": 4,
+            "name": "Blake",
+            "computerId": 2,
+            "departmentId": 4
+        },
+        {
+            "id": 5,
+            "name": "Sophia",
+            "computerId": 1,
+            "departmentId": 4
+        },
+        {
+            "id": 6,
+            "name": "Michael",
+            "computerId": 1,
+            "departmentId": 4
+        }
+    ],
+    "departments":[
+        {
+            "id": 1,
+            "department": "HR"
+        },
+        {
+            "id": 2,
+            "department": "accounting"
+        },
+        {
+            "id": 3,
+            "department": "IT"
+        },
+        {
+            "id": 4,
+            "department": "production"
+        }
+    ],
+    "computers": [
+        {
+            "id": 1,
+            "type": "Mac"
+        },
+        {
+            "id": 2,
+            "type": "PC"
+        }
+    ]
+}
